@@ -1,0 +1,61 @@
+
+Button#bot{
+  background-color: #0097A7;
+  border-color: #0097A7;
+  margin-left: 50px;
+}
+
+Button#bot:hover {
+  background-color: #ffffff;
+  color: #0097A7;
+}
+
+.text-information{
+  margin-top: 50px;
+  padding: 7px;
+  color: black;
+}
+
+.text-response{
+  padding: 7px;
+  color: rgb(71, 71, 71);
+}
+
+.line{
+  padding: 1px;
+  background-color: #8ACDD5;
+  width: 73%;
+  margin-left: 180px;
+}
+
+#sidebar{
+  background-color: #0097A7;
+}
+
+#articles{
+  font-size: 13px;
+}
+
+#neppo-logo{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+#icons{
+  color: rgb(0, 0, 0);
+}
+
+#text-article{
+  font-size: 25px;
+}
+
+#status-icon{
+  color: #c9b22f;
+}
+
+#modal-title{
+  display: flex;
+  margin-left: 180px;
+}

@@ -1,0 +1,26 @@
+.header-container-articles{
+    background-color: #8ACDD5;
+    height: 150px;
+}
+
+h2.satisfaction-ask{
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+
+div.satisfaction.form-row{
+    margin-left: 620px;
+}
+
+button.satisfaction-button.btn.btn-primary{
+    margin-right: 10px;
+    background-color:#0097A7;
+    border-color: #0097A7;
+}
+
+button.back-button.btn.btn-primary{
+    border: none;
+    background-color:  #8ACDD5;
+    width: 80px;
+}
